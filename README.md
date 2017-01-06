@@ -9,5 +9,5 @@ Generate [Choropleths](https://en.wikipedia.org/wiki/Choropleth_map) with Python
 - shapefile
 
 ## Example Output
-Overlaid satellite imagery, zip code boundaries (census shapefile), and roads (shapedfile).
+Overlaid satellite imagery, zip code boundaries (census shapefile), and roads (shapefile).
 ![Household Income Sample](images/sample.png "Example Colorado Zip Code Choropleth")
