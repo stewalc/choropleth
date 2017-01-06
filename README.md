@@ -1,5 +1,13 @@
 # choropleth
-Generate Choropleths with Python
+Generate Choropleths with Python3
 
-# Example Output
+## Required Python Modules
+- numpy
+- pandas
+- matplotlib
+- basemap
+- shapefile
+
+## Example Output
+Overlaid satellite imagery, zip code boundaries (census shapefile), and roads (shapedfile).
 ![Household Income Sample](images/sample.png "Example Colorado Zip Code Choropleth")
