@@ -2,4 +2,4 @@
 Generate Choropleths with Python
 
 # Example Output
-![Household Income Sample](screenshots/sample.png "Example Colorado Zip Code Choropleth")
+![Household Income Sample](images/sample.png "Example Colorado Zip Code Choropleth")
