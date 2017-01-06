@@ -1,5 +1,5 @@
 # choropleth
-Generate Choropleths with Python3
+Generate [Choropleths](https://en.wikipedia.org/wiki/Choropleth_map) with Python3
 
 ## Required Python Modules
 - numpy
