@@ -1,0 +1,30 @@
+name: choro-py3
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - basemap
+  - basemap-data-hires
+  - click
+  - ipykernel
+  - ipython
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - jupyterthemes
+  - markdown
+  - markupsafe
+  - matplotlib
+  - notebook
+  - numpy
+  - openpyxl
+  - pandas
+  - pandoc
+  - pillow
+  - pip
+  - requests
+  - scipy
+  - seaborn
+  - shapely
+  - six
+  - xlrd
